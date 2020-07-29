@@ -1,0 +1,6 @@
+package randoms;
+
+public class LndedRandoms {
+     public LndedRandoms() {
+     }
+}

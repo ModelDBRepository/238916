@@ -1,0 +1,17 @@
+import java.util.Random;
+
+public class ExtendedRandom
+{
+	private	static int randomSeed;
+	
+	public void setRandomSeed(int seedToBe){
+		randomSeed = seedToBe;
+	}
+	
+	public double nextGaussian(double average, double standardDeviation)
+	{
+		Random bob = new Random(randomSeed);
+		return (bob.nextGaussian() * standardDeviation + average);
+	}
+}
+

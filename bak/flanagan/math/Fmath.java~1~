@@ -1,0 +1,6 @@
+package flanagan.math;
+
+public class Fmath {
+     public Fmath() {
+     }
+}

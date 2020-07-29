@@ -1,0 +1,35 @@
+# input for lnded 2.0
+INPUT
+16
+C:\Users\I\Documents\project\Cox lab Neurons\Modellling Sataset_SinglePoint\Wild-type\Class IV\ddaC\S7-D-C4.CNG.swc
+C:\Users\I\Documents\project\Cox lab Neurons\Modellling Sataset_SinglePoint\Wild-type\Class IV\ddaC\Class4-3-noddaE.CNG.swc
+C:\Users\I\Documents\project\Cox lab Neurons\Modellling Sataset_SinglePoint\Wild-type\Class IV\ddaC\C4S5.CNG.swc
+C:\Users\I\Documents\project\Cox lab Neurons\Modellling Sataset_SinglePoint\Wild-type\Class IV\ddaC\S-5-D-C4.CNG.swc
+C:\Users\I\Documents\project\Cox lab Neurons\Modellling Sataset_SinglePoint\Wild-type\Class IV\ddaC\S5-D-C4-1.CNG.swc
+C:\Users\I\Documents\project\Cox lab Neurons\Modellling Sataset_SinglePoint\Wild-type\Class IV\ddaC\S5-D-C4-2.CNG.swc
+C:\Users\I\Documents\project\Cox lab Neurons\Modellling Sataset_SinglePoint\Wild-type\Class IV\v'ada\c4s9v.CNG.swc
+C:\Users\I\Documents\project\Cox lab Neurons\Modellling Sataset_SinglePoint\Wild-type\Class IV\v'ada\WT-C4-12.CNG.swc
+C:\Users\I\Documents\project\Cox lab Neurons\Modellling Sataset_SinglePoint\Wild-type\Class IV\v'ada\S4-L-C4.CNG.swc
+C:\Users\I\Documents\project\Cox lab Neurons\Modellling Sataset_SinglePoint\Wild-type\Class IV\v'ada\S5-V-C4.CNG.swc
+C:\Users\I\Documents\project\Cox lab Neurons\Modellling Sataset_SinglePoint\Wild-type\Class IV\v'ada\S9-L-C4.CNG.swc
+C:\Users\I\Documents\project\Cox lab Neurons\Modellling Sataset_SinglePoint\Wild-type\Class IV\v'ada\WT-C4-20.CNG.swc
+C:\Users\I\Documents\project\Cox lab Neurons\Modellling Sataset_SinglePoint\Wild-type\Class IV\v'ada\WT-MARCM-CIV-M1.CNG.swc
+C:\Users\I\Documents\project\Cox lab Neurons\Modellling Sataset_SinglePoint\Wild-type\Class IV\vdaB\S4-L-C4-1.CNG.swc
+C:\Users\I\Documents\project\Cox lab Neurons\Modellling Sataset_SinglePoint\Wild-type\Class IV\vdaB\S4-V-C4.CNG.swc
+C:\Users\I\Documents\project\Cox lab Neurons\Modellling Sataset_SinglePoint\Wild-type\Class IV\vdaB\WT-C4-11.CNG.swc
+
+
+BINNING
+150
+TYPETODO
+3
+MINRAD
+.075
+SEED
+1
+DEBUGGING
+FALSE
+SWCOUT
+FALSE
+PERCENTSTEP
+0.1
